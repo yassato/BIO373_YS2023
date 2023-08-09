@@ -8,3 +8,5 @@ Materials for the QTL exercise
 ### GAPIT
 Materials for the GWAS/GS exercise  
 
+### SNP
+Materials for the command line exercise and SNP calling  
