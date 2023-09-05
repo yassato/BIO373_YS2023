@@ -21,8 +21,8 @@ xxxxxxxxx # load GAPIT3 package
 
 Download phenotype data
 ```
-pheno_url <- "http://www.ricediversity.org/data/sets/44kgwas/RiceDiversity_44K_Phenotypes_34traits_PLINK.txt"
-p <- read.table(pheno_url, sep="\t", header=TRUE)
+url <- "http://www.ricediversity.org/data/sets/44kgwas/RiceDiversity_44K_Phenotypes_34traits_PLINK.txt"
+p <- read.table(url, sep="\t", header=TRUE)
 nrow(p) # No. of plants
 head(p)
 ```
