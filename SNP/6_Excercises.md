@@ -6,8 +6,8 @@ GFF files contains information on features of a sequence: genes, introns, etc. T
 
 <http://www.ensembl.org/info/website/upload/gff.html>
 
-1. Create symbolic link of athal_genome.gtf to your directory
-2. How many lines and characters are in athal_genome.gtf?
+1. See if the symbolic link of Ahal.gff exists in your directory.
+2. How many lines are in Ahal.gff? Characters?
 3. How many CDS’s are there within scaffold_1 of Ahal.gff? Beware! There’s also scaffold_10, scaffold_11, etc...
 4. How many of each type of feature (column 3) in athal_genome.gtf are there?
 5. zip the athal_genome.gtf file in your own directory and modify the commands to answer some of the question above.
